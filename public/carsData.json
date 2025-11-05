@@ -1,0 +1,22 @@
+[
+  { "name": "Hyundai i20", "fuel": "Petrol", "price": 3000, "image": "/cars/Hyundai i20.webp" },
+  { "name": "Maruti Swift", "fuel": "Petrol", "price": 2800, "image": "/cars/Maruti Swift.jpg" },
+  { "name": "Honda Amaze", "fuel": "Diesel", "price": 3500, "image": "/cars/Honda Amaze.webp" },
+  { "name": "Tata Nexon EV", "fuel": "Electric", "price": 4500, "image": "/cars/Tata Nexon EV.jpg" },
+  { "name": "Kia Seltos", "fuel": "Petrol", "price": 5000, "image": "/cars/Kia Seltos.webp" },
+  { "name": "Mahindra XUV300", "fuel": "Diesel", "price": 4800, "image": "/cars/Mahindra XUV300.jpg" },
+  { "name": "Hyundai Venue", "fuel": "Diesel", "price": 4600, "image": "/cars/Hyundai Venue.avif" },
+  { "name": "Maruti Baleno", "fuel": "Petrol", "price": 2900, "image": "/cars/baleno.jpg" },
+  { "name": "MG ZS EV", "fuel": "Electric", "price": 5500, "image": "/cars/mg-zs-ev.webp" },
+  { "name": "Tata Punch", "fuel": "Petrol", "price": 3100, "image": "/cars/punch.jpg" },
+  { "name": "Honda City", "fuel": "Petrol", "price": 4000, "image": "/cars/city.avif" },
+  { "name": "Toyota Glanza", "fuel": "Petrol", "price": 3200, "image": "/cars/glanza.avif" },
+  { "name": "Skoda Slavia", "fuel": "Petrol", "price": 5200, "image": "/cars/slavia.avif" },
+  { "name": "Maruti Dzire", "fuel": "Diesel", "price": 3400, "image": "/cars/dzire.webp" },
+  { "name": "Mahindra Thar", "fuel": "Diesel", "price": 7000, "image": "/cars/thar.jpg" },
+  { "name": "Hyundai Creta", "fuel": "Diesel", "price": 6000, "image": "/cars/creta.jpg" },
+  { "name": "Tata Harrier", "fuel": "Diesel", "price": 6500, "image": "/cars/harrier.avif" },
+  { "name": "Kia Sonet", "fuel": "Petrol", "price": 4800, "image": "/cars/sonet.avif" },
+  { "name": "Maruti Celerio", "fuel": "Petrol", "price": 2600, "image": "/cars/celerio.png" },
+  { "name": "Toyota Fortuner", "fuel": "Diesel", "price": 9000, "image": "/cars/Fortuner.avif" }
+]
